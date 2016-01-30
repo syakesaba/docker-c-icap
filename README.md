@@ -7,7 +7,7 @@ Ubuntu
 
 Usage
 ======================
-sh```
+```sh
 docker build -t c-icap .
 docker run -d -p 1344:1344 c-icap
 ```
